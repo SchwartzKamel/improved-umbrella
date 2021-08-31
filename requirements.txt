@@ -1,0 +1,9 @@
+python-dotenv
+requests
+click
+IPy
+pytenable
+navi-pro
+pandas
+pymysql
+xlsxwriter
